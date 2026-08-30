@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Pilgrimage.Tests/Pilgrimage.Tests.csproj" />
+  <Project Path="Pilgrimage/Pilgrimage.csproj" />
+</Solution>

@@ -1,0 +1,9 @@
+.DS_Store
+
+# .NET build output
+bin/
+obj/
+
+# IDE-specific files
+.idea/
+*.sln.DotSettings.user
